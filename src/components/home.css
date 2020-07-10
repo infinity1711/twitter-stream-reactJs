@@ -1,0 +1,70 @@
+.user-img{
+    height: 45px;
+    width: 45px;
+    float: left;
+    border-radius: 50px;
+  }
+
+  .user-img-container{
+    -ms-flex-align: stretch;
+    -ms-flex-direction: column;
+    -ms-flex-negative: 0;
+    -ms-flex-preferred-size: auto;
+    -webkit-align-items: stretch;
+    -webkit-box-align: stretch;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: vertical;
+    -webkit-flex-basis: auto;
+    -webkit-flex-direction: column;
+    -webkit-flex-shrink: 0;
+    align-items: stretch;
+    border: 0 solid black;
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-basis: auto;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    min-height: 0px;
+    min-width: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    position: relative;
+    z-index: 0;
+    flex-basis: 49px;
+    flex-grow: 0;
+    margin-right: 10px;
+  }
+
+  .t-tweet{
+    display: flex;
+    flex-basis: auto;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    min-height: 0px;
+    min-width: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    position: relative;
+    /* z-index: 0; */
+    /* -webkit-box-direction: normal; */
+    /* -webkit-box-orient: horizontal; */
+    flex-direction: row;
+    background-color: #15202b;
+    color: #fff;
+  }
